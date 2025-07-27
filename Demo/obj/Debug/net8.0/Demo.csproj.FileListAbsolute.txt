@@ -1,0 +1,4 @@
+C:\progict\Ass C#\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\progict\Ass C#\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\progict\Ass C#\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\progict\Ass C#\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
